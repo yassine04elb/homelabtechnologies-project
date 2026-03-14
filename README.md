@@ -1,4 +1,4 @@
-# 🖥️ Homelab — Yassine
+# 🖥️ HOMELAB 🖥️
 
 Een gesimuleerde enterprise IT-omgeving opgezet met Hyper-V.  
 Doel: praktijkervaring opdoen in systeembeheer, netwerken en beveiliging.
