@@ -27,11 +27,9 @@ Ik werk aan verschillende servers en netwerkdiensten om praktijkervaring op te d
 - Backup Server (VEEAM)
 - Update Server (WSUS)
 - VPN Server  
-- Session Server  
 - Monitoring Server (Zabbix)  
 - Print Server  
-- Web Server  
-- Database Server  
+- Web Server    
 - SIEM Server  
 - Security testing VM (Kali Linux)  
 
