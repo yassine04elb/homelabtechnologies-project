@@ -7,33 +7,25 @@ Ik werk aan verschillende servers en netwerkdiensten om praktijkervaring op te d
 
 ## 🌐 Servers die ik al heb opgezet
 
-### 1. pfSense Firewall/Router
-- Configuratie en beheer van firewallregels en NAT
+### 1. Firewall/Router (pfSense)
+- Configuratie en beheer van basis firewallregels en NAT
 - DHCP en DNS configuratie
-- Basis netwerksegmentatie
+  
 
-### 2. Windows Server (DC)
+### 2. Domain Controller (win server 22)
 - Active Directory configureren en beheren
 - DNS configureren en beheren
 - Gebruikers, groepen, Organizational Units en Group Policies instellen en beheren
 
-### 3. File Server
+### 3. File Server (win server 22)
 - Mappen en shares opzetten
 - Gebruikersrechten en toegang configureren (NTFS)
 
 ---
 
-## 🔧 Servers waar ik momenteel mee bezig ben
-
-### 4. Backup Server
-- Configuratie van back-ups van belangrijke data
-
-### 5. Update Server (WSUS)
-- Windows updates voor clients en servers beheren
-
----
-
 ## 🚀 Servers die ik nog wil opzetten en mee wil oefenen
+- Backup Server (VEEAM)
+- Update Server (WSUS)
 - VPN Server  
 - Session Server  
 - Monitoring Server (Zabbix)  
@@ -45,14 +37,20 @@ Ik werk aan verschillende servers en netwerkdiensten om praktijkervaring op te d
 
 ---
 
-## 🧠 Skills tot nu toe (van de eerste 3 servers)
-- Netwerkbeheer: DHCP, DNS, routing, firewall rules  
-- Windows Server beheer: AD, users, groups, OU, GPO’s  
-- File Server beheer: shares, rechten en toegang  
-- Troubleshooting en probleemoplossing  
-- Installatie en configuratie van servers  
+## 🧠 Skills tot nu toe
 
----
+- Hyper-V virtualisatie
+- Windows Server 2022 beheer
+- Troubleshooten
+- IT-omgeving documenteren
+- Firewallregels configureren
+- DHCP configureren
+- DNS configureren
+- Active Directory installeren en configureren
+- Gebruikers,groepen, OU's en GPO aanmaken en beheren
+- DNS-zones beheren
+- PowerShell voor AD-beheer
+- Gedeelde mappen aanmaken (SMB shares)
+- NTFS-rechten configureren
+- Gebruikerstoegang beheren
 
-- Security testing en pentesting skills (Kali Linux)  
-- Web- en database servers opzetten en beheren
