@@ -1,4 +1,4 @@
-# Mijn Homelab Project
+# HomeLAB
 
 Dit homelab gebruik ik om mijn kennis in systeem- en netwerkbeheer te oefenen en verder uit te breiden richting security in de toekomst..  
 Ik werk aan verschillende servers en netwerkdiensten om praktijkervaring op te doen.
