@@ -12,7 +12,7 @@ Ik werk aan verschillende servers en netwerkdiensten om praktijkervaring op te d
 - DHCP en DNS configuratie
   
 
-### 2. Windows Server 2022 (DC)
+### 2. Windows Server 2022 (AD + DNS)
 - Active Directory configureren en beheren
 - DNS configureren en beheren
 - Gebruikers, groepen, Organizational Units en Group Policies instellen en beheren
